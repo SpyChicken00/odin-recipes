@@ -1,9 +1,8 @@
 # odin-recipes
-TheOdinProject Foundations Recipe Project 
+TheOdinProject Foundations: Recipe Project 
 
-Create a basic recipe website with HTML to further build upon with future projects.
+Goal: Create a basic recipe website with HTML to further build upon with future projects.
 
-Skills- terminal commands, git with terminal, and HTML in VSCode 
+This project will have me practicing basic terminal commands, using git through the terminal, and writing my first basic HTML website in VSCode. I am now able to make basic websites and host them online through my github account to share with others. 
 
-
-2nd visit- apply basic styles with CSS Knowledge from following lesson
+CSS Lesson- Return to basic HTML recipes website and apply basic styles with CSS Knowledge from lesson. 
